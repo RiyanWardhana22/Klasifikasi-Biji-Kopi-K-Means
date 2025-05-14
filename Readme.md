@@ -47,3 +47,13 @@ pip install opencv-python numpy scikit-image scikit-learn pandas
       - Menyimpan hasil clustering ke file CSV - Menampilkan jumlah gambar per
       kategori - Menyimpan sampel gambar ke folder terpisah berdasarkan cluster
     </ul>
+        <ul>
+      OUTPUT PROGRAM
+      <li>File CSV berisi hasil klasifikasi semua gambar</li>
+      <li>
+        Folder dengan sampel gambar yang sudah dikelompokkan (Premium/Cacat)
+      </li>
+      <li>
+        Laporan jumlah gambar per kategori dan nilai silhouette score di console
+      </li>
+    </ul>
